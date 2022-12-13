@@ -1,3 +1,5 @@
+use library;
+
 #task 1
 select * from books;
 
